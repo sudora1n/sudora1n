@@ -2,7 +2,9 @@
 
 ###
 
-<p align="center">Gitlab is better, [my gitlab](https://gitlab.com/ani4a)</p>
+<p align="center">Gitlab is better</p>
+
+<p align="center">my gitlab https://gitlab.com/ani4a</p>
 
 ###
 
