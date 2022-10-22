@@ -1,16 +1,22 @@
-### Hi there 👋
+<h1 align="center">Github shit</h1>
 
-<!--
-**ani4a/ani4a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<p align="center">Gitlab is better, [my gitlab](https://gitlab.com/ani4a)</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" width="52" alt="gitlab logo"  />
+</div>
+
+###
+
+<h2 align="center">wakapi.dev moment</h2>
+
+###
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+###
