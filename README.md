@@ -21,12 +21,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-Python             7 hrs 4 mins    ########################-   97.34 %
-PLAIN_TEXT         0 hrs 4 mins    -------------------------   00.87 %
-INI                0 hrs 3 mins    -------------------------   00.69 %
-requirements.txt   0 hrs 2 mins    -------------------------   00.49 %
-Text               0 hrs 1 mins    -------------------------   00.31 %
-Markdown           0 hrs 1 mins    -------------------------   00.16 %
+Python             7 hrs 18 mins   ########################-   97.07 %
+PLAIN_TEXT         0 hrs 4 mins    -------------------------   00.86 %
+INI                0 hrs 3 mins    -------------------------   00.66 %
+requirements.txt   0 hrs 2 mins    -------------------------   00.48 %
+JSON               0 hrs 2 mins    -------------------------   00.35 %
+Text               0 hrs 1 mins    -------------------------   00.30 %
 ```
 
 <!--END_SECTION:waka-->
