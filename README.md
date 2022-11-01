@@ -21,11 +21,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-Python           0 hrs 43 mins   #####################----   83.05 %
-Markdown         0 hrs 3 mins    ##-----------------------   06.29 %
-GitIgnore file   0 hrs 3 mins    #------------------------   05.58 %
-JSON             0 hrs 2 mins    #------------------------   04.68 %
-PLAIN_TEXT       0 hrs 0 mins    -------------------------   00.39 %
+Python           0 hrs 11 mins   #####################----   83.31 %
+GitIgnore file   0 hrs 2 mins    ####---------------------   15.29 %
+Markdown         0 hrs 0 mins    -------------------------   01.27 %
+JSON             0 hrs 0 mins    -------------------------   00.13 %
 ```
 
 <!--END_SECTION:waka-->
