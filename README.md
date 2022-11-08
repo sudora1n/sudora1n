@@ -21,10 +21,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-GitIgnore file   0 hrs 2 mins    #################--------   67.04 %
-Python           0 hrs 1 mins    #######------------------   26.82 %
-Markdown         0 hrs 0 mins    #------------------------   05.59 %
-JSON             0 hrs 0 mins    -------------------------   00.56 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
