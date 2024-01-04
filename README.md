@@ -20,8 +20,12 @@
 
 <!--START_SECTION:waka-->
 
-```text
-No activity tracked
+```txt
+Python              1 hrs 20 mins   #####################----   84.82 %
+.env file           0 hrs 5 mins    #------------------------   04.95 %
+TOML                0 hrs 3 mins    #------------------------   03.36 %
+Bash                0 hrs 3 mins    #------------------------   02.74 %
+YAML                0 hrs 2 mins    #------------------------   02.12 %
 ```
 
 <!--END_SECTION:waka-->
