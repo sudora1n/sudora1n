@@ -21,11 +21,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python            0 hrs 57 mins   #####################----   85.00 %
-TOML              0 hrs 3 mins    #------------------------   05.17 %
-JSON              0 hrs 3 mins    #------------------------   03.74 %
-Makefile          0 hrs 1 mins    #------------------------   02.08 %
-PLAIN_TEXT        0 hrs 1 mins    -------------------------   01.24 %
+unknown   0 hrs 6 mins    #########################   100.00 %
 ```
 
 <!--END_SECTION:waka-->
