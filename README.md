@@ -21,7 +21,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python   0 hrs 2 mins    #########################   100.00 %
+unknown   0 hrs 9 mins    #########################   100.00 %
 ```
 
 <!--END_SECTION:waka-->
