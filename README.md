@@ -21,9 +21,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python       0 hrs 6 mins    #########################   100.00 %
-PLAIN_TEXT   0 hrs 0 mins    -------------------------   00.00 %
+Python       0 hrs 0 mins    #########################   100.00 %
 .env file    0 hrs 0 mins    -------------------------   00.00 %
+PLAIN_TEXT   0 hrs 0 mins    -------------------------   00.00 %
 ```
 
 <!--END_SECTION:waka-->
