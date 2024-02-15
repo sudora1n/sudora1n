@@ -21,10 +21,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Go                1 hrs 58 mins   #################--------   66.01 %
-Protocol Buffer   0 hrs 36 mins   #####--------------------   20.14 %
-Makefile          0 hrs 19 mins   ###----------------------   10.55 %
-Python            0 hrs 6 mins    #------------------------   03.25 %
+Go                3 hrs 30 mins   ###################------   74.72 %
+Protocol Buffer   0 hrs 44 mins   ####---------------------   15.51 %
+Makefile          0 hrs 21 mins   ##-----------------------   07.64 %
+Python            0 hrs 6 mins    #------------------------   02.07 %
 unknown           0 hrs 0 mins    -------------------------   00.06 %
 ```
 
