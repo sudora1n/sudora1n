@@ -21,11 +21,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Go                5 hrs 32 mins   #################--------   67.71 %
-Protocol Buffer   0 hrs 46 mins   ##-----------------------   09.36 %
-Docker            0 hrs 38 mins   ##-----------------------   07.74 %
-Makefile          0 hrs 27 mins   #------------------------   05.52 %
-YAML              0 hrs 21 mins   #------------------------   04.23 %
+Go                5 hrs 38 mins   ################---------   65.83 %
+Protocol Buffer   0 hrs 46 mins   ##-----------------------   08.93 %
+Docker            0 hrs 38 mins   ##-----------------------   07.41 %
+YAML              0 hrs 27 mins   #------------------------   05.33 %
+Makefile          0 hrs 27 mins   #------------------------   05.27 %
 ```
 
 <!--END_SECTION:waka-->
