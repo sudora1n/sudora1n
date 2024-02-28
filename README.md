@@ -21,11 +21,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python              0 hrs 15 mins   ############-------------   48.76 %
-Go                  0 hrs 12 mins   #########----------------   37.59 %
-TOML                0 hrs 3 mins    ##-----------------------   09.87 %
-YAML                0 hrs 0 mins    -------------------------   01.19 %
-DockerIgnore file   0 hrs 0 mins    -------------------------   01.13 %
+Go                  0 hrs 44 mins   ################---------   65.69 %
+Python              0 hrs 15 mins   ######-------------------   22.72 %
+YAML                0 hrs 4 mins    #------------------------   05.46 %
+TOML                0 hrs 3 mins    #------------------------   04.60 %
+DockerIgnore file   0 hrs 0 mins    -------------------------   00.53 %
 ```
 
 <!--END_SECTION:waka-->
