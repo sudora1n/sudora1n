@@ -21,11 +21,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Go           1 hrs 35 mins   ###################------   77.99 %
-Python       0 hrs 16 mins   ###----------------------   13.24 %
-JSON         0 hrs 9 mins    ##-----------------------   07.67 %
-unknown      0 hrs 1 mins    -------------------------   00.56 %
-Svelte       0 hrs 1 mins    -------------------------   00.44 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
