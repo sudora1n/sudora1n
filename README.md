@@ -21,9 +21,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-YAML      0 hrs 7 mins    ###########--------------   42.78 %
-Svelte    0 hrs 5 mins    #######------------------   28.76 %
-unknown   0 hrs 5 mins    #######------------------   28.45 %
+YAML   0 hrs 4 mins    #########################   100.00 %
 ```
 
 <!--END_SECTION:waka-->
