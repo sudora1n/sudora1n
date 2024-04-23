@@ -21,7 +21,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Go   0 hrs 33 mins   #########################   100.00 %
+Go               0 hrs 33 mins   ###################------   76.30 %
+Python           0 hrs 9 mins    #####--------------------   21.41 %
+GitIgnore file   0 hrs 1 mins    -------------------------   01.41 %
+TOML             0 hrs 0 mins    -------------------------   00.87 %
 ```
 
 <!--END_SECTION:waka-->
