@@ -23,8 +23,8 @@
 ```txt
 Python           0 hrs 17 mins   #########################   99.42 %
 GitIgnore file   0 hrs 0 mins    -------------------------   00.58 %
-TOML             0 hrs 0 mins    -------------------------   00.00 %
 .env file        0 hrs 0 mins    -------------------------   00.00 %
+TOML             0 hrs 0 mins    -------------------------   00.00 %
 ```
 
 <!--END_SECTION:waka-->
