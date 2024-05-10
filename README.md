@@ -21,9 +21,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Docker   0 hrs 34 mins   ##################-------   72.78 %
-YAML     0 hrs 11 mins   ######-------------------   22.90 %
-Bash     0 hrs 2 mins    #------------------------   04.32 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
